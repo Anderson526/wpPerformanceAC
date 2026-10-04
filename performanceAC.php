@@ -2,7 +2,7 @@
 /*
 Plugin Name:  Smart Performance & Optimizer - toolkitAC
 Plugin URI: https://anderson526.github.io/portfolio-profesional/
-Description: Optimizaciones de un clic: lazy load de iframes y vídeos, control de scripts innecesarios y limpieza segura de la base de datos. Parte de la suite AnderC Essential.
+Description: Optimizaciones de un clic: lazy load de iframes y vídeos, control de scripts innecesarios y limpieza segura de la base de datos. Parte de la suite AC Essential.
 Version: 1.0.0
 Author: Anderson Chila
 Author URI: https://anderson526.github.io/portfolio-profesional/

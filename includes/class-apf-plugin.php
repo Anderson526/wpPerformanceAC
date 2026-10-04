@@ -27,6 +27,7 @@ final class APF_Plugin {
 
 		if ( is_admin() ) {
 			new APF_Admin();
+			new APF_Donations();
 		}
 	}
 

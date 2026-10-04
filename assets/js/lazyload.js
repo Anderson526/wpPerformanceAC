@@ -1,4 +1,4 @@
-/* AnderC Performance: carga diferida de iframes y vídeos con IntersectionObserver. */
+/* AC Performance: carga diferida de iframes y vídeos con IntersectionObserver. */
 ( function () {
 	'use strict';
 

@@ -19,8 +19,8 @@ class APF_Admin {
 
 	public function register_menu() {
 		add_menu_page(
-			__( 'AnderC Performance', 'anderc-performance' ),
-			__( 'AnderC Performance', 'anderc-performance' ),
+			__( 'AC Performance', 'anderc-performance' ),
+			__( 'AC Performance', 'anderc-performance' ),
 			'manage_options',
 			self::SLUG,
 			array( $this, 'render' ),
@@ -89,7 +89,7 @@ class APF_Admin {
 		$counts = APF_Database_Cleaner::get_counts();
 		?>
 		<div class="wrap anderc-wrap">
-			<h1><span class="anderc-badge">AnderC</span> <?php esc_html_e( 'Smart Performance & Optimizer', 'anderc-performance' ); ?></h1>
+			<h1><span class="anderc-badge">AC</span> <?php esc_html_e( 'Smart Performance & Optimizer', 'anderc-performance' ); ?></h1>
 
 			<?php $this->notices(); ?>
 
